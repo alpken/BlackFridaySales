@@ -1,1 +1,3 @@
 # BlackFridaySales
+
+Black Friday, the day after Thanksgiving in the United States, marks the unofficial start of the Christmas shopping season, a tradition that dates back to 1952. Although the term "Black Friday" became popular only in recent decades, it’s now synonymous with major sales events, with many stores offering significant discounts and opening as early as midnight or even on Thanksgiving itself. One of the key challenges for retail stores and eCommerce businesses during this period is setting product prices to maximize profits. Our project focuses on determining optimal product prices based on historical sales data, enabling retailers to make informed pricing decisions and maximize their profits during the Black Friday sales.
